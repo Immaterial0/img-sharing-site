@@ -1,0 +1,28 @@
+{
+  "name": "img-sharing-site",
+  "version": "1.0.0",
+  "description": "A basic image sharing site using mongoDB and node.js, created via following a books tutorial.",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Immaterial0/img-sharing-site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Immaterial0/img-sharing-site/issues"
+  },
+  "homepage": "https://github.com/Immaterial0/img-sharing-site#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cookie-parser": "^1.4.3",
+    "errorhandler": "^1.4.3",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.6",
+    "morgan": "^1.7.0"
+  }
+}
